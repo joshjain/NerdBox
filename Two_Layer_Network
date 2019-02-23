@@ -1,3 +1,6 @@
+% Joshua Jain
+% 2/23/2019
+
 % two layer neural network experiment using MNIST handwritten dataset.  
 % Assume all model bias are zero (equal bias later?)
 % Use the sigmoid activation function. 
